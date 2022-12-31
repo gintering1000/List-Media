@@ -28,6 +28,9 @@
 - Hand ( 가위바위보, 묵찌빠 )
 - Card ( 포커,홀덤 )
 
+## Rhythm
+- Clipping ( 쌔쌔쌔, 초콜리트 )
+
 ## Party
 
 ## Adventure
