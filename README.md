@@ -9,6 +9,7 @@
 - Clicker ( 클릭작업 )
 
 ## Puzzle
+- Complete ( 직소퍼즐 )
 - TimeManagement ( 길찾기, 조립 )
 - Difference ( 틀린그림찾기 )
 - Board ( 바둑, 장기 )
