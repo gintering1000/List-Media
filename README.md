@@ -15,7 +15,7 @@
 - Board ( 바둑, 장기 )
 - MatchLine ( 테트리스 )
 - Match3 ( 색상맞추기, 버블슈터 )
-- Card ( 포커, 홀덤 )
+- Card ( 카드맞추기 )
 - Word ( 단어찾기 )
 - Merge ( 합치고 키우기 )
 - RoomEscape ( 방탈출 )
@@ -26,6 +26,7 @@
 
 ## Battle
 - RoleBattle ( 가위바위보 )
+- CardBattle ( 포커,홀덤 )
 
 ## Party
 
