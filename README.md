@@ -1,7 +1,10 @@
 # Info-List-Game
 
-## Puzzle
+## Visual
 - Viewer ( 단순보기 )
+- Story ( 텍스트게임, 비주얼노벨 )
+
+## Puzzle
 - Collection ( 단순수집, 카드수집 )
 - Clicker ( 클릭수집, 클릭작업 )
 - Battle ( 가위바위보, 사다리타기 )
