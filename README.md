@@ -25,7 +25,7 @@
 - Slot ( 슬롯머신 )
 
 ## Battle
-- RoleBattle ( 가위바위보 )
+- RoleBattle ( 가위바위보, 묵찌빠 )
 - CardBattle ( 포커,홀덤 )
 
 ## Party
