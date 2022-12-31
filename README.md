@@ -8,7 +8,7 @@
 - Board ( 바둑, 장기 )
 - Card ( 포커, 홀덤 )
 - Difference ( 틀린그림찾기 )
-- Match ( 테트리스 )
+- MatchLine ( 테트리스 )
 - Match3 ( 색상맞추기, 버블슈터 )
 - Merge ( 합치고 키우기 )
 - RoomEscape ( 방탈출 )
