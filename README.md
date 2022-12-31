@@ -21,7 +21,7 @@
 - RoomEscape ( 방탈출 )
 
 ## Battle
-- Battle ( 가위바위보, 사다리타기 )
+- RPS ( 가위바위보, 사다리타기 )
 
 ## Party
 
