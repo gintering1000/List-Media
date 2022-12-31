@@ -6,7 +6,7 @@
 
 ## Puzzle
 - Collection ( 단순수집, 카드수집 )
-- Clicker ( 클릭수집, 클릭작업 )
+- Clicker ( 클릭작업 )
 - Battle ( 가위바위보, 사다리타기 )
 - TimeManagement ( 길찾기, 조립 )
 - Difference ( 틀린그림찾기 )
