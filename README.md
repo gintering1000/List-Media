@@ -20,8 +20,12 @@
 - Merge ( 합치고 키우기 )
 - RoomEscape ( 방탈출 )
 
+## Lottery
+- Function ( 사다리타기, 제비뽑기 )
+- Slot ( 슬롯머신 )
+
 ## Battle
-- RPS ( 가위바위보, 사다리타기 )
+- RoleBattle ( 가위바위보 )
 
 ## Party
 
