@@ -2,6 +2,7 @@
 
 ## Puzzle
 - Collection ( 단순수집, 카드수집 )
+- Clicker ( 클릭수집, 클릭작업 )
 - TimeManagement ( 길찾기, 조립 )
 - Battle ( 가위바위보, 사다리타기 )
 - Word ( 단어찾기 )
