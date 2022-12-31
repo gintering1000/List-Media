@@ -1,6 +1,7 @@
 # Info-List-Game
 
 ## Puzzle
+- Viewer ( 단순보기 )
 - Collection ( 단순수집, 카드수집 )
 - Clicker ( 클릭수집, 클릭작업 )
 - Battle ( 가위바위보, 사다리타기 )
