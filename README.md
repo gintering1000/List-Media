@@ -29,7 +29,7 @@
 - Card ( 포커,홀덤 )
 
 ## Rhythm
-- Clipping ( 쌔쌔쌔, 초콜리트 )
+- Clapping ( 쌔쌔쌔, 초콜리트 )
 
 ## Party
 
