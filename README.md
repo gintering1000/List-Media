@@ -1,4 +1,4 @@
-# Info-List-Game
+# Info-List
 
 ## Visual
 - Viewer ( 단순보기 )
